@@ -1,0 +1,2 @@
+# spkpenjualan
+sistem penunjang keputusan
